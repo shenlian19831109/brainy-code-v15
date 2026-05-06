@@ -1,0 +1,15 @@
+# 密钥和环境变量
+.env
+
+# AI 记忆数据（用户本地）
+.ai_memory/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时文件
+*.tmp
+*.swp
+*~
